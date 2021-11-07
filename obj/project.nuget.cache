@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q4lymJ6Usi1yGU2JGiTtGQRVHF9LGN79nDSfnKRhGnEBi2BGSpNXYTTib5QY9nNJZjTrQhKXjxVLqOchtEIQdA==",
+  "dgSpecHash": "TQeIuaY7pXa0UAjRYcg/nIBPfatyPCXY+THHwkjrMyHYh3pE7ueAn7xoQmc8wcA8hS4feoGBdrotwsArN252KA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akist\\Test2\\Test2.csproj",
+  "projectFilePath": "c:\\Users\\akist\\Test2\\Test2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akist\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\akist\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.11\\microsoft.aspnetcore.authorization.5.0.11.nupkg.sha512",
